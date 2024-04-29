@@ -1,7 +1,3 @@
-/* Sempre ultilizar dos algoritmos para definir oq deveremos fazer no código */
-
-//Pegar os botões do HTML
-
 const botoes = document.querySelectorAll(".botao")
 //pegar os personagens
 const personagens = document.querySelectorAll(".personagem")
